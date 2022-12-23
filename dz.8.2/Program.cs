@@ -20,7 +20,7 @@ Console.WriteLine();
 NumberRowMinSumElements(table);
 
 
-// Функция выводит на консоль номер строки, где сумма элементов наименьшая
+// Функция, которая выводит на консоль номер строки, где сумма элементов наименьшая
 void NumberRowMinSumElements(int[,] array)
 {
     int minRow = 0;
