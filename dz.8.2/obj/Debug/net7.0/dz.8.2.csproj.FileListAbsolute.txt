@@ -1,0 +1,15 @@
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ8\dz.8.2\bin\Debug\net7.0\dz.8.2.exe
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ8\dz.8.2\bin\Debug\net7.0\dz.8.2.deps.json
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ8\dz.8.2\bin\Debug\net7.0\dz.8.2.runtimeconfig.json
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ8\dz.8.2\bin\Debug\net7.0\dz.8.2.dll
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ8\dz.8.2\bin\Debug\net7.0\dz.8.2.pdb
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ8\dz.8.2\obj\Debug\net7.0\dz.8.2.csproj.AssemblyReference.cache
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ8\dz.8.2\obj\Debug\net7.0\dz.8.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ8\dz.8.2\obj\Debug\net7.0\dz.8.2.AssemblyInfoInputs.cache
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ8\dz.8.2\obj\Debug\net7.0\dz.8.2.AssemblyInfo.cs
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ8\dz.8.2\obj\Debug\net7.0\dz.8.2.csproj.CoreCompileInputs.cache
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ8\dz.8.2\obj\Debug\net7.0\dz.8.2.dll
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ8\dz.8.2\obj\Debug\net7.0\refint\dz.8.2.dll
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ8\dz.8.2\obj\Debug\net7.0\dz.8.2.pdb
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ8\dz.8.2\obj\Debug\net7.0\dz.8.2.genruntimeconfig.cache
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ8\dz.8.2\obj\Debug\net7.0\ref\dz.8.2.dll
