@@ -13,7 +13,7 @@ FillArray(array3D);
 PrintIndex(array3D);
 
 
-// Функция которая выводи индекс элементов в 3D массиве
+// Функция которая выводит  индекс элементов в 3D массиве
 void PrintIndex(int[,,] arr)
 {
     for (int i = 0; i < array3D.GetLength(0); i++)
